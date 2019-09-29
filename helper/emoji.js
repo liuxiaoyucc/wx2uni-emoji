@@ -1,6 +1,6 @@
+//维护一个键值映射，互相转换
 const map = {
 	'\ue513' : "\ud83c\udde8\ud83c\uddf3",
-	ac: 'dss'
 };
 
 function wx2uni(emoji) {
